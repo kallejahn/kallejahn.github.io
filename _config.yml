@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kalle L. Jahn"
+  name             :  "<a style='color: #1f77b4;'>Kalle L. Jahn</a>"
   avatar           : "field_KJ.jpg"
   bio              : "PhD Candidate at Penn State"
   location         : "State College, PA"
