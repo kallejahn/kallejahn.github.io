@@ -12,18 +12,15 @@ author_profile: true
   
 &NewLine;  
   
-<img src="../images/pfos_model_results2.png" align="right" width="600px" alt="test"/>
+<img src="../images/pfos_model_results2.png" align="right" alt="test"/>
 
   
   
 
-<img src="../images/flow_nitrate_profile.png" align="right" width="600px"/>
+<img src="../images/flow_nitrate_profile.png" align="right""/>
   
-  
-  
-  
-  
-<img src="../images/nitrate_flowpaths.png" align="right" width="600px"/>
+    
+<img src="../images/nitrate_flowpaths.png" align="right"/>
   
 </div>
 
