@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-![Alt text](folder/image.png)
+![Alt text](../images/field_KJ.png)
 
 ## Poly- and perfluoroalkyl substances (PFAS)
 
