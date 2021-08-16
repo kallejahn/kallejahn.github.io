@@ -13,7 +13,12 @@ author_profile: true
 
 Per- and polyfluoroalkyl substances (PFASs) represent a significant human health risk if present in aquifers used as a drinking water source. Accurate assessment of PFAS exposure risks requires an improved understanding of field-scale PFAS transport in groundwater. Activities in the 1970s at a former firefighter training site in University Park, Pennsylvania introduced perfluorooctanesulfonic acid (PFOS) to the underlying dolomite aquifer. Groundwater sampling of 18 wells from 2015 to 2018 delineated a PFOS plume with two concentration maxima located ~20 and ~220 m downgradient of the training site, separated by a zone of lower concentrations. Based on analytical and numerical groundwater flow and transport models informed by field and laboratory data, we propose that heterogeneity in bedrock organic carbon content (OC) is responsible for the observed plume separation. Dissolved PFOS readily partitions to organic solids, so even low-level OC in aquifer materials significantly limits PFOS transport, while near-zero OC allows for conservative transport. This study highlights an important consideration for modeling the groundwater transport of PFOS: In aquifers with discrete layers of varying OC, models using a uniform site average OC could underestimate PFOS transport distances, thereby misrepresenting exposure risks for down-gradient communities.
 
+<img src="../images/field_KJ.jpg" align="left" width="200px"/>
+some text floating around the image
 
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
 
 ### Loading history and fate of perfluoroalkyl acids in soils irrigated with treated wastewater effluent
 
