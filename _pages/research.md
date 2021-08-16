@@ -8,17 +8,11 @@ author_profile: true
 <!-- .slide: style="text-align: left;"> -->  
 
 <div style="width: 28%; padding: 0px 10px 0px 0px; float: right;">
-<img src="../images/fig5.png" align="right" width="400px" alt="test"/>
-  
-&NewLine;  
+<img src="../images/fig5.png" align="right" alt="test"/>
   
 <img src="../images/pfos_model_results2.png" align="right" alt="test"/>
 
-  
-  
-
-<img src="../images/flow_nitrate_profile.png" align="right""/>
-  
+<img src="../images/flow_nitrate_profile.png" align="right"/>
     
 <img src="../images/nitrate_flowpaths.png" align="right"/>
   
