@@ -9,13 +9,10 @@ author_profile: true
 
 <div style="width: 28%; padding: 0px 10px 0px 0px; float: right;">
 <img src="../images/fig5.png" align="right" width="400px" alt="test"/>
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<br/>
+  
+  
+<br/>
   
 <img src="../images/pfos_model_results2.png" align="right" width="600px" alt="test"/>
 &nbsp;
