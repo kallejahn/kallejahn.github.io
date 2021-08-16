@@ -11,10 +11,7 @@ author_profile: true
 
 ### Transport of perfluorooctanesulfonic acid (PFOS) in a dolomite aquifer
 <div style="width: 28%; padding: 0px 10px 0px 0px; float: right;">
-<figure>
-  <img src="../images/fig5.png" alt=""/>
-  <figcaption>This is my caption text.</figcaption>
-</figure>
+<img src="../images/fig5.png" align="right" width="400px" alt="test"/>
   
 <img src="../images/pfos_model_results2.png" align="right" width="600px" alt="test"/>
 
